@@ -1,6 +1,6 @@
 {
     "name": "vendor/admin-ui",
-    "alias": "",
+    "alias": "AntDesign后台UI",
     "description": "Ant Design",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
