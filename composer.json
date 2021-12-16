@@ -1,5 +1,5 @@
 {
-    "name": "vendor/admin-ui",
+    "name": "admin-vendor/admin-ui",
     "alias": "AntDesign后台UI",
     "description": "Ant Design",
     "type": "library",
